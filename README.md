@@ -54,6 +54,7 @@ This project analyzes daily sales data from the Bright Coffee Shop to help the C
 
 ## Deliverables
 
-- Bright_Coffee_Sales_Analysis.sql – Snowflake queries
+- Bright_Coffee_Sales.sql – Snowflake queries
 - Bright_Coffee_Sales_Analysis.xlsx – Pivot tables and visual charts
 - Bright_Coffee_Presentation.pdf – Business presentation
+- Bright_Coffee_Sales_Project_Plan.pdf - Draw.io Project Plan
