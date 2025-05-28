@@ -15,10 +15,9 @@ This project analyzes daily sales data from the Bright Coffee Shop to help the C
 
 ## Tools Used
 
-- **SQL (Snowflake)** – Data preparation and transformation
-- **Excel** – Pivot tables, charts, dashboard
+- **SQL (Snowflake)** – Data analysis
+- **Excel** – Data preparation and transformation
 - **Canva** – Final business presentation
-- **Draw.io** – Project planning and process visualization
 
 ---
 
@@ -32,29 +31,8 @@ This project analyzes daily sales data from the Bright Coffee Shop to help the C
 
 ---
 
-## Factors Influencing Sales
-
-- **Time of Day** – Morning sales dominate
-- **Product Popularity** – Simple, affordable items sell best
-- **Location** – Urban areas perform better
-- **Stock Availability** – Missing popular items = missed revenue
-- **Pricing Strategy** – Bundled items increase perceived value
-
----
-
-## Recommendations
-
-- Focus promotions on high-sellers in the morning
-- Create bundles (coffee + muffin) to boost order value
-- Stock more of top items consistently
-- Remove or rework low-selling products
-- Introduce a loyalty program to retain regulars
-
----
-
 ## Deliverables
 
 - Bright_Coffee_Sales.sql – Snowflake queries
-- Bright_Coffee_Sales_Analysis.xlsx – Pivot tables and visual charts
+- Bright_Coffee_Sales_Analysis.xlsx – Data preparation and transformation
 - Bright_Coffee_Presentation.pdf – Business presentation
-- Bright_Coffee_Sales_Project_Plan.pdf - Draw.io Project Plan
