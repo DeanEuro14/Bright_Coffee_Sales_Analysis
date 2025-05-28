@@ -21,16 +21,6 @@ This project analyzes daily sales data from the Bright Coffee Shop to help the C
 
 ---
 
-## Key Insights
-
-- Coffee and muffins generate the most revenue
-- Ethiopia Roast and Choc Muffin are top performers
-- Mornings have the highest transaction volume
-- Lower Manhattan is the best-performing store
-- Some product types underperform and could be reviewed
-
----
-
 ## Deliverables
 
 - Bright_Coffee_Sales.sql – Snowflake queries
